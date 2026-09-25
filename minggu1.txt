@@ -1,0 +1,31 @@
+void main() {
+  String nama = 'KOPI LAIN HATI';
+  int stock = 20;
+  double harga = 22000.0;
+  bool tersedia = true;
+
+  print(nama);
+  print('stock');
+  print(stock);
+  print('harga');
+  print(harga);
+  print(tersedia);
+
+  //.....
+
+  String customer = 'Anom';
+  print(customer);
+
+  String customerNote = 'less sugar';
+  print(customerNote);
+
+  int jumlah = 5;
+  print('Jumlah beli');
+  print(jumlah);
+
+  int total = 110000;
+  print('total');
+  print(total);
+
+  print('pembeli = $customer, jumlah beli= $jumlah, total = $total');
+}
